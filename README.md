@@ -29,3 +29,9 @@ Built with **React + MUI** to practice state management, context, and clean UI d
    ```bash
    git clone https://github.com/areebaka/eat-n-split.git
    cd eat-n-split
+
+   ---
+
+## 🌐 Live Demo
+[Eat N Split](https://eat-n-split-five-kappa.vercel.app/) — split bills, not friendships 😏
+
