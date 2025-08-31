@@ -31,9 +31,11 @@ Built with **React + MUI** to practice state management, context, and clean UI d
    cd eat-n-split
    
 2. Install dependencies:
+   ```bash
    npm install
 
 3. Start the development server
+    ```bash
    npm start
    
 ---
